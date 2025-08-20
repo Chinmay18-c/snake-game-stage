@@ -40,15 +40,15 @@ This is a Python-based Snake Game built using the `turtle` graphics module. It e
 
 ## 🖼️ Screenshots
 -  **Start**
-  ![Start](screenshots/start.png)
+  ![Start](start.png)
 - **Stage 1**
-  ![Stage 1](screenshots/stage1.png)
+  ![Stage 1](stage1.png)
 - **Stage 2**
-  ![Stage 2](screenshots/stage2.png)
+  ![Stage 2](stage2.png)
 - **Stage 3**
-  ![Stage 3](screenshots/stage3.png)
+  ![Stage 3](stage3.png)
 - **Restart**
-  ![Restart](screenshots/restart.png)
+  ![Restart](restart.png)
 
 ## 🏆 Objective
 Eat as much food as possible, survive through all stages, and try to beat your high score!
