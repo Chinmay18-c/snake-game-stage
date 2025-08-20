@@ -40,14 +40,23 @@ This is a Python-based Snake Game built using the `turtle` graphics module. It e
 
 ## 🖼️ Screenshots
 -  **Start**
+  
   ![Start](start.png)
+
 - **Stage 1**
+  
   ![Stage 1](stage1.png)
+  
 - **Stage 2**
+  
   ![Stage 2](stage2.png)
+  
 - **Stage 3**
+  
   ![Stage 3](stage3.png)
+  
 - **Restart**
+  
   ![Restart](restart.png)
 
 ## 🏆 Objective
